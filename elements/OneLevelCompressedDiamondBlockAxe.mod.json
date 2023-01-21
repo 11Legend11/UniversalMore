@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "one_level_compressed_diamond_block_axe",
+    "customModelName": "Normal",
+    "name": "One Level Compressed Diamond Block Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:UniversalMore"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 8,
+    "efficiency": 13.0,
+    "attackSpeed": 3.0,
+    "enchantability": 15,
+    "damageVsEntity": 18.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SuperIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

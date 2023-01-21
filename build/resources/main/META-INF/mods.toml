@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="universalmore"
+version="0.1.0"
+displayName="UniversalMore"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://github.com/11legend11/UniversalMore"
+logoFile="logo.png"
+authors="Legend"
+description='''
+You can play the more in Minecraft! That is very good! 
+'''
+
+[[dependencies.universalmore]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

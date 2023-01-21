@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "universalmore:items/one_level_compressed_diamond_block_hoe"
+  }
+}

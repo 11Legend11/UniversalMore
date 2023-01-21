@@ -1,0 +1,41 @@
+{
+  "textures": {
+    "particle": "universalmore:blocks/one_level_compressed_diamond_block_door",
+    "portal": "universalmore:blocks/one_level_compressed_diamond_block_door"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        0
+      ],
+      "to": [
+        10,
+        16,
+        16
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        }
+      }
+    }
+  ],
+  "render_type": "translucent"
+}

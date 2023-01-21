@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "universalmore:one_level_compressed_diamond_block"
+    },
+    "1": {
+      "item": "universalmore:one_level_compressed_diamond_block"
+    },
+    "2": {
+      "item": "universalmore:one_level_compressed_diamond_block"
+    },
+    "4": {
+      "item": "universalmore:obsidian_stick"
+    },
+    "7": {
+      "item": "universalmore:obsidian_stick"
+    }
+  },
+  "result": {
+    "item": "universalmore:one_level_compressed_diamond_block_pickaxe",
+    "count": 1
+  }
+}

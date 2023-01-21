@@ -1,0 +1,183 @@
+{
+  "_fv": 34,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Super Potion",
+    "splashName": "Splash Super Potion",
+    "lingeringName": "Lingering Super Potion",
+    "arrowName": "Arrow of Super Potion",
+    "effects": [
+      {
+        "effect": {
+          "value": "SPEED"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "HASTE"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "STRENGTH"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "INSTANT_HEALTH"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "JUMP_BOOST"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "REGENERATION"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "RESISTANCE"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "FIRE_RESISTANCE"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "WATER_BREATHING"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "INVISIBILITY"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "NIGHT_VISION"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "HEALTH_BOOST"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "ABSORPTION"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "SATURATION"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "LUCK"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "SLOW_FALLING"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "CONDUIT_POWER"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "DOLPHINS_GRACE"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      },
+      {
+        "effect": {
+          "value": "HERO_OF_THE_VILLAGE"
+        },
+        "duration": 12000,
+        "amplifier": 32,
+        "ambient": false,
+        "showParticles": false
+      }
+    ]
+  }
+}

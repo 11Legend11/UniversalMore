@@ -1,0 +1,185 @@
+{
+  "mod_elements": [
+    {
+      "name": "UniversalMore",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "universal_more"
+    },
+    {
+      "name": "ObsidianStick",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_stick"
+    },
+    {
+      "name": "ObsidianStickRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidian_stick_recipe"
+    },
+    {
+      "name": "OneLevelCompressedDiamondBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_level_compressed_diamond_block"
+    },
+    {
+      "name": "OneLevelCompressedDiamondBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_level_compressed_diamond_block_recipe"
+    },
+    {
+      "name": "OneLevelCompressedDiamondBlockReductionRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_level_compressed_diamond_block_reduction_recipe"
+    },
+    {
+      "name": "SuperPotion",
+      "type": "potion",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_potion"
+    },
+    {
+      "name": "SuperIngot",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_ingot"
+    },
+    {
+      "name": "SuperPotionRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_potion_recipe"
+    },
+    {
+      "name": "SuperIngotRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_ingot_recipe"
+    },
+    {
+      "name": "CryingObsidianRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crying_obsidian_recipe"
+    },
+    {
+      "name": "BedrockRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bedrock_recipe"
+    },
+    {
+      "name": "OneLevelCompressedDiamondBlockBiota",
+      "type": "biome",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_level_compressed_diamond_block_biota"
+    },
+    {
+      "name": "OneLevelCompressedDiamondBlockDimension",
+      "type": "dimension",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_level_compressed_diamond_block_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "UniversalKey",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "universal_key"
+    },
+    {
+      "name": "OneLevelCompressedDiamondBlockDimensionKeyRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_level_compressed_diamond_block_dimension_key_recipe"
+    },
+    {
+      "name": "UniversalKeyRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "universal_key_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.minecraft.lingering_potion.effect.super_potion": "Lingering Super Potion",
+      "item.universalmore.obsidian_stick": "Obsidian Stick",
+      "item.universalmore.super_ingot": "Super Ingot",
+      "block.universalmore.one_level_compressed_diamond_block": "One Level Compressed Diamond Block",
+      "item.minecraft.potion.effect.super_potion": "Super Potion",
+      "biome.universalmore.one_level_compressed_diamond_block_biota": "One Level Compressed Diamond Block Biota",
+      "item.minecraft.splash_potion.effect.super_potion": "Splash Super Potion",
+      "item.universalmore.universal_key": "Universal Key",
+      "itemGroup.tabuniversal_more": "Universal More",
+      "item.universalmore.one_level_compressed_diamond_block_dimension": "One Level Compressed Diamond Block Dimension Key",
+      "item.minecraft.tipped_arrow.effect.super_potion": "Arrow of Super Potion"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "universalmore",
+    "modName": "UniversalMore",
+    "version": "0.0.3dev",
+    "description": "You can play the more in Minecraft! That is very good! ",
+    "author": "Legend",
+    "websiteURL": "https://github.com/11legend11",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "legend.universalmore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

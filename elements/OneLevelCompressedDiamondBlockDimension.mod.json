@@ -1,0 +1,42 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:OneLevelCompressedDiamondBlockBiota"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.DEEPSLATE_DIAMOND_ORE"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:OneLevelCompressedDiamondBlock"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "One Level Compressed Diamond Block Dimension Key",
+    "igniterTab": {
+      "value": "CUSTOM:UniversalMore"
+    },
+    "texture": "diamond_key",
+    "portalTexture": "one_level_compressed_diamond_block_door",
+    "enablePortal": true
+  }
+}

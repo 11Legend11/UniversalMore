@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OneLevelCompressedDiamondBlock"
+      },
+      {
+        "value": "CUSTOM:OneLevelCompressedDiamondBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:OneLevelCompressedDiamondBlock"
+      },
+      {
+        "value": "CUSTOM:ObsidianStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ObsidianStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OneLevelCompressedDiamondBlockAxe"
+    },
+    "name": "one_level_compressed_diamond_block_axe_recipe_one",
+    "namespace": "mod"
+  }
+}

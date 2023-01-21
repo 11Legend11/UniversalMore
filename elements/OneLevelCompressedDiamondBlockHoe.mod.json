@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "one_level_compressed_diamond_block_hoe",
+    "customModelName": "Normal",
+    "name": "One Level Compressed Diamond Block Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:UniversalMore"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 8,
+    "efficiency": 13.0,
+    "attackSpeed": 1.5,
+    "enchantability": 15,
+    "damageVsEntity": 10.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SuperIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

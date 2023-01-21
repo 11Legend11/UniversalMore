@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+Arguments: '--clean, C:\Users\Legend\.mcreator\gradle\caches\forge_gradle\mcp_repo\net\minecraft\joined\1.19.2-20220805.130853\joined-1.19.2-20220805.130853-srg.jar, --output, C:\MCMod\UniversalMore\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.7\forge-1.19.2-43.1.7-binpatched.jar, --apply, C:\MCMod\UniversalMore\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.7\forge-1.19.2-43.1.7-binpatches.lzma'
+Classpath:
+ - C:\Users\Legend\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\binarypatcher\1.1.1\binarypatcher-1.1.1-fatjar.jar
+Working directory: C:\MCMod\UniversalMore\build\_applyBinpatches_5
+Main class: net.minecraftforge.binarypatcher.ConsoleTool
+====================================
+Applying: 
+  Clean:     C:\Users\Legend\.mcreator\gradle\caches\forge_gradle\mcp_repo\net\minecraft\joined\1.19.2-20220805.130853\joined-1.19.2-20220805.130853-srg.jar
+  Output:    C:\MCMod\UniversalMore\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.7\forge-1.19.2-43.1.7-binpatched.jar
+  KeepData:  false
+  Unpatched: false
+  Pack200:   false
+  Legacy:    false
+Loading patches file: C:\MCMod\UniversalMore\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.7\forge-1.19.2-43.1.7-binpatches.lzma

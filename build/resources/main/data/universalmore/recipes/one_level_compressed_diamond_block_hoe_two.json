@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "universalmore:one_level_compressed_diamond_block"
+    },
+    "1": {
+      "item": "universalmore:one_level_compressed_diamond_block"
+    },
+    "2": {
+      "item": "universalmore:obsidian_stick"
+    },
+    "4": {
+      "item": "universalmore:obsidian_stick"
+    }
+  },
+  "result": {
+    "item": "universalmore:one_level_compressed_diamond_block_hoe",
+    "count": 1
+  }
+}

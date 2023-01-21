@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "universalmore:block/one_level_compressed_diamond_block_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "universalmore:block/one_level_compressed_diamond_block_dimension_portal_ns"
+    }
+  }
+}

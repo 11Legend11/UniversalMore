@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "universalmore:blocks/one_level_compressed_diamond_block",
+    "up": "universalmore:blocks/one_level_compressed_diamond_block",
+    "north": "universalmore:blocks/one_level_compressed_diamond_block",
+    "east": "universalmore:blocks/one_level_compressed_diamond_block",
+    "south": "universalmore:blocks/one_level_compressed_diamond_block",
+    "west": "universalmore:blocks/one_level_compressed_diamond_block",
+    "particle": "universalmore:blocks/one_level_compressed_diamond_block"
+  },
+  "render_type": "solid"
+}
